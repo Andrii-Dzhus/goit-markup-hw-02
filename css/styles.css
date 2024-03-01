@@ -82,7 +82,8 @@ button {
     background: #4d5ae5;
 }
 
-.solution-btn:hover{
+.solution-btn:hover,
+.solution-btn:focus{
     background-color: #404bbf;
     color: #fff;
 }
