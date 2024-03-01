@@ -92,8 +92,6 @@ button {
 }
 
 .visually-hidden {
-    position: absolute;
-
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
