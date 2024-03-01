@@ -80,15 +80,12 @@ button {
     background: #4d5ae5;
 }
 
-.solution-btn:hover{
+.solution-btn:hover,
+.solution-btn:active,
+.solution-btn:focus{
         background-color: #404bbf;
         color: #fff;
     }
-    
-.solution-btn:focus {
-    background-color: #404bbf;
-    color: #fff;
-}
 
 /*  Principles */
 
