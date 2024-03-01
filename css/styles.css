@@ -55,7 +55,7 @@ button {
 }
 
 .address-link:hover,
-.address-link:focus{
+.address-link:focus {
     color: #404bbf;}
 
 /*  solutions */
@@ -82,7 +82,8 @@ button {
     background: #4d5ae5;
 }
 
-.solution-btn:hover{
+.solution-btn:hover
+.solution-btn:focus {
     background: #404bbf;
 }
 
@@ -138,7 +139,9 @@ button {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;}
+    text-transform: capitalize
+    color: #2e2f42;
+}
 
 .team-list {}
 
